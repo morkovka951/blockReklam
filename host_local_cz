@@ -41,8 +41,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 rr2.sn-oxwu8-2gbs.googlevideo.com
 0.0.0.0 rr3.sn-oxwu8-2gbs.googlevideo.com
 0.0.0.0 rr4.sn-oxwu8-2gbs.googlevideo.com
-0.0.0.0 photos-ugc.l.googleusercontent.com
-0.0.0.0 rr3---sn-oxwu8-2gbl.googlevideo.com
-0.0.0.0 rr4---sn-oxwu8-2gbl.googlevideo.com
-0.0.0.0 rr4.sn-2gb7sne6.googlevideo.com
-0.0.0.0 rr1.sn-oxwu8-2gbs.googlevideo.com
+
+# End yoyo.org
+
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
+
+# 0.0.0.0 example.com
